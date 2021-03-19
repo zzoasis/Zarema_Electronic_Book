@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Zarema_Electronic_Book</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="name_book">Электронная книга про Мануэля Нойера</string>
+    <string name="back">Назад</string>
+    <string name="next">Далее</string>
+    <string name="search">Поиск</string>
+    <string name="manu">Мануэль Нойер</string>
+    <string name="shalke04">Шальке04</string>
+    <string name="bayern">Бавария</string>
+    <string name="facts">Интересные факты</string>
+    <string name="read">Почитать</string>
+    <string name="next_matches">Следующие матчи</string>
+    <string name="connection">Обратная связь</string>
+    <string name="review">Написать отзыв</string>
+    <string name="full_size_font">Большой шрифт</string>
+    <string name="mysearch">Включить поиск</string>
+    <string name="exit">Выход</string>
+
+</resources>
